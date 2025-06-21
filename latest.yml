@@ -1,8 +1,8 @@
-version: 1.0.1
+version: 1.0.2
 files:
-  - url: orkhon-kiosk-setup-1.0.1.exe
-    sha512: HY/ivZUvkW6hFqnuCLp/asKmovv9jTg9hJkR9NCzx+7NPwLHKkE7K0gUC53oxbrrGcc/3cSbBnxAI/AGfYDcOA==
-    size: 93654441
-path: orkhon-kiosk-setup-1.0.1.exe
-sha512: HY/ivZUvkW6hFqnuCLp/asKmovv9jTg9hJkR9NCzx+7NPwLHKkE7K0gUC53oxbrrGcc/3cSbBnxAI/AGfYDcOA==
-releaseDate: '2025-06-21T22:15:14.584Z'
+  - url: orkhon-kiosk-setup-1.0.2.exe
+    sha512: 1IEkOcDhECThPPgAJVvfbmrlHfil/qEXVX/32run+lEt3if7WfNWnj/0ER/n/vCgHyjnixKDisUkWlWEecg+mA==
+    size: 93654409
+path: orkhon-kiosk-setup-1.0.2.exe
+sha512: 1IEkOcDhECThPPgAJVvfbmrlHfil/qEXVX/32run+lEt3if7WfNWnj/0ER/n/vCgHyjnixKDisUkWlWEecg+mA==
+releaseDate: '2025-06-21T22:19:39.942Z'
